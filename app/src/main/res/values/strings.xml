@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <array name="color_names">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </array>
+    <array name="toppings">
+        <item>Onion</item>
+        <item>Lettuce</item>
+        <item>Tomato</item>
+    </array>
+</resources>
